@@ -16,9 +16,9 @@
 
 
 ## ⚠️ 주의
-- **ChatFormatPlugin**은 다른 버전에서 작동하지 않을 수도 있습니다.
+- **GrapePlugin**은 다른 버전에서 작동하지 않을 수도 있습니다.
 
 
 
 ## ⬇️ 다운로드
-### [클릭해서 다운로드하세요!](https://github.com/grape82/ChatFormatPlugin/releases)
+### [클릭해서 다운로드하세요!](https://github.com/grape82/grapeplugin/releases)
