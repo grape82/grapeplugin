@@ -17,7 +17,7 @@
 
 ## ⚠️ 주의
 - **GrapePlugin**은 다른 버전에서 작동하지 않을 수도 있습니다.
-- 커맨드 내용은 "yongyong130" 님만 사용 할 수 있습니다
+- 커맨드 내용은 코드를 수정하지 않는 이상 "yongyong130" 님만 확인 할 수 있습니다
   - 변경 방법 : src/main/kotlin/io/github/grape82/grapeplugin/Setting 에서 privateplayer 에 있는 이름을 바꿔주면 됍니다!
 
 
